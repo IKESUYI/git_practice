@@ -11,6 +11,11 @@ sausages
 
 
 DIARY
+milk
+eggs
+yoghurt
+butter
+cheese
 
 
 
